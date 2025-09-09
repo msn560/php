@@ -3,7 +3,7 @@
 Bu proje, modern, güvenli ve zengin özelliklere sahip, **sunucu tabanlı bir dosya yönetim sistemi**dir.  
 Tek bir PHP dosyası ile kolay kurulum ve yönetim imkanı sunar. Kullanıcı profilleri, detaylı ayar yönetimi ve şık arayüzü ile kişisel veya kurumsal bulut depolama ihtiyaçlarınız için **ideal bir çözüm**dür.
 
-![Uygulama ]([https://example.com/screenshots/login.png](https://raw.githubusercontent.com/msn560/php/refs/heads/main/file_manager/app.png))
+![Uygulama ](https://raw.githubusercontent.com/msn560/php/refs/heads/main/file_manager/app.png)
 ---
 
 ## ✨ Öne Çıkan Özellikler
