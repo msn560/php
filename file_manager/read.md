@@ -28,6 +28,7 @@ Tek bir PHP dosyası ile kolay kurulum ve yönetim imkanı sunar. Kullanıcı pr
   - Başarılı/başarısız işlemler için toast bildirimleri
 
 ---
+![Uygulama Giriş Ekranı ](https://raw.githubusercontent.com/msn560/php/refs/heads/main/file_manager/app-login.png)
 
 ## 🛠️ Teknoloji Yığını
 
