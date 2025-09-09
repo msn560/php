@@ -50,7 +50,7 @@ Tek bir PHP dosyası ile kolay kurulum ve yönetim imkanı sunar. Kullanıcı pr
    - Web sunucusunun (örn. `www-data`) yazma izni olduğundan emin olun.  
 
 4. **Tarayıcıda Açın**  
-   Örn: `https://siteniz.com/app5.php`
+   Örn: `https://siteniz.com/index.php`
 
 ---
 
